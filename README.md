@@ -8,7 +8,7 @@
 
 <p>Project developed during the back-end module of the Trybe full-stack web development course.</p>
 <p>Project used to practice the concepts of SQL database manipulation and table normalization.</p>
-<p>It was used as business rules of a database similar to spotfy using tables without normalization. All the normalization of the database tables was done and the creation of them to be used as a basis for the creation of the database.</p>
+<p>It was used as business rules of a database similar to spotfy using tables without normalization. Thus normalizing the tables to be used on the basis of the creation of the database</p>
 
 ## 🔨 Project features
 
