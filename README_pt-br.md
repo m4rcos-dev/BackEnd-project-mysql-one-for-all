@@ -6,7 +6,7 @@
 
 <p>Projeto desenvolvido durante o módulo back-end do curso de desenvolvimento web full-stack Trybe.</p>
 <p>Projeto utilizado para praticar os conceitos de manipulação de banco de dados SQL e normalização de tabelas.</p>
-<p>Foi utilizado as regras de negócio de um banco de dados semelhante ao do spotfy utilizando tabelas sem normalização. Foi feita toda a normalização das tabelas do banco de dados e a criação das mesmas para serem utizadas como base na criação do banco.</p>
+<p>Foi utilizado as regras de negócio de um banco de dados semelhante ao do spotfy utilizando tabelas sem normalização. Normalizando assim as tabelas para serem utizadas na base da criação do banco.</p>
 
 ## 🔨 Project features
 
